@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ### Profile Stats ⭐
 
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghv2805&show_icons=true&theme=radical)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav2805&show_icons=true&theme=radical)
 
 ### Top languages 👨‍💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghv2805&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2805&layout=compact&theme=radical)
 
 ### Skills 💻
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
