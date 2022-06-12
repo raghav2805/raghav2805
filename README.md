@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![MONGODB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SOLIDITY](https://img.shields.io/badge/Solidity-02569B?style=for-the-badge&logo=Solidity&logoColor=white)
-![C++](https://img.shields.io/badge/Cpp-02569B?style=for-the-badge&logo=Cpp&logoColor=white)
+![C++](https://img.shields.io/badge/Cpp-02569B?style=for-the-badge&logo=C++&logoColor=white)
 
 ### Connect with me ✉
 [![Gmail Badge](https://img.shields.io/badge/-Raghavgoyal-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavgoyal492.2805@gmail.com)](mailto:raghavgoyal492.2805@gmail.com)
