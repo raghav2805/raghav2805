@@ -5,7 +5,7 @@ I am Raghav Goyal. A MERN & blockchain developer from India.
 
 - 🔭 I’m currently working on blockchain Projects
 - 🌱 I’m currently practicing Data Structures & Algorithms.
-- 📫 How to reach me: raghavgoyal492.2805@gmail.com
+- 📫 How to reach me: work.raghavgoyal@gmail.com
 
 <!--
 **raghav2805/raghav2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/Cpp-02569B?style=for-the-badge&logo=C++&logoColor=white)
 
 ### Connect with me ✉
-[![Gmail Badge](https://img.shields.io/badge/-Raghavgoyal-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavgoyal492.2805@gmail.com)](mailto:raghavgoyal492.2805@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Raghavgoyal-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavgoyal492.2805@gmail.com)](mailto:work.raghavgoyal@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-RaghavGoyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghavgoyal2805/)](https://www.linkedin.com/in/raghavgoyal2805/)
 <br />
