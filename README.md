@@ -4,7 +4,7 @@
 I am Raghav Goyal. A MERN & blockchain developer from India.
 
 - 🔭 I’m currently working on blockchain Projects
-- 🌱 I’m currently practicing Data Structures & Algorithms.
+- 🌱 Practicing Data Structures & Algorithms.
 - 📫 How to reach me: work.raghavgoyal@gmail.com
 
 <!--
